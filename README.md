@@ -1,7 +1,7 @@
 # Hi, I'm Ayaan.
 
 ## 🚀 Currently Working On:
-- 🔍 **Deepfake & Morphed Image Detection**
+- 🔍 **Continued Learning Using CVAE**
   
 ## 💬 Connect & Collaborate
 I'm always open to discussions, ideas, and collaborations in the fields of:
@@ -9,3 +9,6 @@ I'm always open to discussions, ideas, and collaborations in the fields of:
 - Machine Learning
 - Artificial Intelligence
 - Object detection
+- Deep Learning techniques and models
+- Continued learning
+- Deepfake detection
