@@ -1,4 +1,4 @@
-# Hi, I'm Ayaan.
+# Hi, I'm Ayaan, A B.tech AIML Student at Woxsen University.
 
 ## 🚀 Currently Working On:
 - 🔍 **Continued Learning Using CVAE**
