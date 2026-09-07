@@ -2,7 +2,7 @@
 
 Final-year B.Tech CSE (AI & ML) at Woxsen University, Hyderabad. I build deep learning systems end to end — data, training, honest evaluation, and the part where somebody else can actually run it.
 
-Currently a **Data / AI-ML intern at BritMaths** (remote, Dubai) working on computer vision and time-series, and building [**atlas**](https://github.com/Ayai1/atlas) — a local-first AI companion that diagnoses and explains your machine without sending a byte of it anywhere.
+Currently building [**atlas**](https://github.com/Ayai1/atlas) — a local-first AI companion that diagnoses and explains your machine without sending a byte of it anywhere.
 
 ---
 
@@ -17,8 +17,6 @@ Currently a **Data / AI-ML intern at BritMaths** (remote, Dubai) working on comp
 | [**autostream-ai-agent**](https://github.com/Ayai1/autostream-ai-agent) | LangGraph agent that turns a conversation into a qualified lead — passive field extraction, confidence-thresholded intent routing, RAG-grounded replies | Deployable to WhatsApp via webhooks |
 | [**multimodal-market-signal-fusion**](https://github.com/Ayai1/multimodal-market-signal-fusion) | Audio sentiment + TF-IDF text + technical indicators, fused with entropy-based adaptive gating and XGBoost | 0.627 acc / 0.616 F1 — under a **leak-free chronological split**, not a shuffled one |
 
-> On that last number: financial ML is trivially easy to inflate by shuffling time-series data and leaking the future into training. Evaluated chronologically, 0.627 across three signal classes is a real result. I'd rather report a number I trust.
-
 ---
 
 ### Tools
@@ -32,17 +30,3 @@ Computer vision and object detection · continual learning · retrieval-augmente
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/syed-ayaan-ahmed-766a85289) · saayaan1208@gmail.com
-# Hi, I'm Ayaan, A B.tech AIML Student at Woxsen University.
-
-## 🚀 Currently Working On:
-- 🔍 **Continued Learning Using CVAE**
-  
-## 💬 Connect & Collaborate
-I'm always open to discussions, ideas, and collaborations in the fields of:
-- Computer Vision
-- Machine Learning
-- Artificial Intelligence
-- Object detection
-- Deep Learning techniques and models
-- Continued learning
-- Deepfake detection
