@@ -1,5 +1,5 @@
 ## Syed Ayaan Ahmed
-
+Machine Learning & Software Engineer | Building reliable ML systems, deterministic agent frameworks, and high-integrity data pipelines.
 Final-year B.Tech CSE (AI & ML) at Woxsen University, Hyderabad. I build deep learning systems end to end — data, training, honest evaluation, and the part where somebody else can actually run it.
 
 Currently building [**atlas**](https://github.com/Ayai1/atlas) — a local-first AI companion that diagnoses and explains your machine without sending a byte of it anywhere.
