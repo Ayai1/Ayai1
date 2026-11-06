@@ -31,4 +31,4 @@ Agent memory and retrieval-augmented systems · healthcare AI · continual learn
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/syed-ayaan-ahmed-766a85289) · saayaan1208@gmail.com
+[LinkedIn](https://www.linkedin.com/in/syed-ayaan-ahmed-wou) · saayaan1208@gmail.com
